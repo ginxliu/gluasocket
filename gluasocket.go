@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/Greyh4t/dnscache"
+	"github.com/ginxliu/dnscache"
 	"github.com/yuin/gopher-lua"
 )
 
